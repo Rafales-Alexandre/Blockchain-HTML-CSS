@@ -18,7 +18,7 @@ Prenez les fichiers SVG dans le dossier figma, glissez/déposez sur dans le figm
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/1.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Blockchain-HTML-CSS/blob/main/img/Blockchain landing page.png" alt="template 3" width="300" /></p>
 
 
 
